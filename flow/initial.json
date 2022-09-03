@@ -1,0 +1,124 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden a crédito",
+            "quisiera saber si venden",
+            "necesito saber",
+            "saludos",
+            "saludos!",
+            "klk",
+            "buenas",
+            "#",
+            "hola *servicios pablo mella*! necesito más información sobre los planes"
+
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "plan",
+            "planes",
+            "1"        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "10",
+            "Los Llanos",
+            "los llanos",
+            "Los llanos"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "20",
+            "villa",
+            "Villa altagracia",
+            "Villa",
+            "villa altagracia"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "30",
+            "Pablo mella",
+            "pablo mella",
+            "Pablo mella morales",
+            "pablo mella morales",
+            "Pablo Mella Moorales"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            "40",
+            "pedro",
+            "pedro brand",
+            "Pedro brand",
+            "Pedro Brand",
+            "Pedro"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "solicitar",
+            "2",
+            "servicio"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "3",
+            "cuenta",
+            "deposito", 
+            "numero de cuenta",
+            "depositar"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "averia",
+            "reporte",
+            "4",
+            "problema",
+            "ayuda"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "5",
+            "terminos",
+            "condiciones"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "gracias",
+            "muchas gracias",
+            "ok",
+            "cool",
+            "esta bien",
+            "bye",
+            "adios"
+        ],
+        "key": "STEP_7"
+    }
+    
+]

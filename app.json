@@ -1,0 +1,35 @@
+{
+    "name": "Pablito Chatbot",
+    "description": "Whatsapp chat boot",
+    "repository": "https://github.com/rekelex/pablito_chatbot.git",
+    "logo": "",
+    "keywords": [
+      "nodejs",
+      "whatsapp",
+      "bot",
+      "chatbot",
+      "dialogflow"
+    ],
+    "addons": [
+    ],
+    "buildpacks": [
+      {
+        "url": ""
+      },
+      {
+        "url": ""
+      }
+    ],
+    "env": {
+      "SAVE_MEDIA": "false",
+      "DATABASE": {
+        "description": "'none', 'mysql', 'dialogflow' por defecto 'none' Puedes usar alguna de los siguientes opciones. Pero antes debes de saber como funciona",
+        "value": "none"
+      },
+      "LANGUAGE": "es",
+      "SQL_HOST":"your_host",
+      "SQL_USER":"your_user",
+      "SQL_PASS":"your_password",
+      "SQL_DATABASE":"your_database"
+    }
+  }

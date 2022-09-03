@@ -1,0 +1,153 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*Hola,* esta palabra no se encuentra en mi base de datos \n",
+            "Prueba escribiendo *hola* \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "tha \n",
+            "s \n",
+            " step 0"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Hola!✌️ \n",
+            "Bienvenido a Servicios Tecnologicos Pablo Mella Morales, lo primero ",
+            "en decirte que mi nombre es *PablitoBot*😎 \n",
+            "*Seleccione la opcion deseada segun el servicio que necesite:*\n\n",
+            "1️⃣ - *Planes* \n",
+            "2️⃣ - *Solicitar servicio* \n",
+            "3️⃣ - *Cuentas para deposito* \n",
+            "4️⃣ - *Reporte de averia*\n",
+            "5️⃣ - *Terminos y condiciones*\n\n",
+            "```Este numero esta siendo utilizado solo para mensajes de WhatsApp, si necesita que lo llamemos por favor dejenos saber.``` \n",
+            "Siguenos en instagram *_@s_tecnologicos_pmm_*"
+           
+        ],
+        "media":null,
+        "trigger":null
+
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "_Planes_ \n",
+            "Tenemos cobertura en diferentes partes del pais \n\n",
+            "*1️⃣0️⃣* - *Los Llanos* \n",
+            "*2️⃣0️⃣* - *Villa Altagracia* \n",
+            "*3️⃣0️⃣* - *Pablo Mella Morales* \n",
+            "*4️⃣0️⃣* - *Pedro Brand* \n\n",
+            "*#️⃣* - *Volver al menu principal*"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            "*Planes San Jose de Los Llanos* \n\n",
+            "*5/2 -- RD$1000* \n",
+            "*6/2 -- RD$1200* \n",
+            "*8/3 -- RD$1400* \n",
+            "*10/4 -- RD$1600*\n",
+            "*15/5 -- RD$1800*\n",
+            "*20/5 -- RD$2000*\n\n",
+            "_Precios sujetos a disponibilidad de la fibra optica_ \n\n",
+            "*1️⃣ - Regresar*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+            "*Planes Villa Altagracia* \n\n",
+            "*1️⃣ - Regresar*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "*Planes Pablo Mella Morales* \n\n",
+            "*6/2 -- RD$1000* \n",
+            "*8/3 -- RD$1400* \n",
+            "*10/4 -- RD$1600*\n",
+            "*15/5 -- RD$1800*\n",
+            "*20/5 -- RD$2000*\n\n",
+            "*1️⃣ - Regresar*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_4":{
+        "replyMessage":[
+            "*Planes Pedro Brand* \n\n",
+            "*1️⃣ - Regresar*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "*Para solicitar servicio, por favor llenar este formulario:* \n\n",
+            "https://forms.gle/CknqVyZvZYLRgLzi6 \n\n",
+            "1️⃣ - *Ver planes*"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "*Cuenta para deposito* \n\n",
+            "_Banreservas_ - *9603073070 Corriente* \n",
+            "*RNC - 132089642*\n\n",
+            "*Es obligatorio enviar el comprobante para aplicar el pago*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "*Por favor escribir su reporte o problema* \n\n",
+            "_En un momento uno de nuestros representantes les estara asistiendo_ \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "*Terminos y condiciones* \n\n",
+            "_Nuestros Planes van desde 4 megas hasta 20 Megas, todos los planes tienen un costo de instalación de RD$ 1,500.00, el contrato es por 6 meses, los pagos son los días 30 de cada mes vía transferencia Bancaria como fecha límite tiene hasta el día 4 de cada mes a las 11:59 pm por lo cual tienen desde el día 25 que se genera la factura hasta el día 4 en total tienen 10 días para realizar el pago en caso de no realizar el pago el sistema suspende automáticamente el servicio y tiene un costo de reconexión de RD$ 150 pesos y la primera factura será solo por los días de uso y así iniciar la facturación regular._ \n",
+            "_El servicio es por Velocidad y no se degrada ahora si contratan 6 megas y son 6 equipos en la casa lo puede notar lento esto es porque la relación sería 1 mega para cada equipo y eso realmente es muy poco, no tienen límite de consumo al mes nuestro propósito es garantizar la velocidad contratada para la cual contamos con herramientas de monitoreo que nos indican la calidad del servicio._  \n",
+            "_*Los Equipos* - Son propiedad de la empresa y deben entregarlos al momento de cancelar el servicio, el pago que se hace por instalación no es reembolsable ya que este es usado para materiales que no se recuperan._ \n",
+            "_*Los Pagos* - Estos son vía depósito o transferencia a la cuenta del Banreservas y, en *Los Llanos* también pueden ser vía oficina, en caso de no recibir el pago del periodo los equipos son retirados luego de 30 días de tener la factura vencida; *automaticamente la cuenta pasa a gestión de cobro*, en caso de llegar a moroso y quiere volver a tener el servicio deberá dejar un depósito._ \n",
+            "_*Monitoreo* - Contamos con herramientas que nos ayudan a realizar un trabajo proactivo y tratamos de revisar cualquier punto antes de que se cree una avería._ \n",
+            "_*Averías* - Cuando se Presente una avería serán informados de los avance y tiempo estimado._ \n",
+            "~Asegurece de haber leido toda la informacion antes de solicitar el servicio~ \n\n",
+            "1️⃣ - *Ver planes* \n",
+            "#️⃣ - *Volver al menu principal*"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "*Estoy a la orden*\n",
+            "Para mas informacion envie un *hola*"
+        ],
+        "media":null,
+        "trigger":null
+    }
+  
+}
+
+
