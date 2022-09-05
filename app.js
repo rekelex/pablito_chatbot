@@ -107,6 +107,10 @@ const listenMessage = () => client.on('message', async msg => {
         }
         return
     }
+    if(msg.hasMedia) {
+        const response = await responseMessages('STEP_1')
+        await sendMessage(client, from, response.replyMessage, response.trigger);
+    }
 
     //Si quieres tener un mensaje por defecto
     if (process.env.DEFAULT_MESSAGE === 'false') {
